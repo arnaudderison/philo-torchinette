@@ -1,7 +1,6 @@
 # 🍽️ Tester for the Philosopher Project
 
 ![tester](./images/torch.png)
-![exemple](./images/exemple.png)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 📜 Description
