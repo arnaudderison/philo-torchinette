@@ -32,11 +32,11 @@ This tester is designed to verify the proper functioning of your implementation 
 
 ### 🧪 Functional Tests
 The tester runs a series of tests with different configurations:
-1. 1️⃣ 1 philosopher, 800ms to die, 200ms to eat, 200ms to sleep
-2. 5️⃣ 5 philosophers, 800ms to die, 200ms to eat, 200ms to sleep, 7 meals each
-3. 4️⃣ 4 philosophers, 410ms to die, 200ms to eat, 200ms to sleep, 20 meals each
-4. 2️⃣ 2 philosophers, 125ms to die, 60ms to eat, 60ms to sleep, 100 meals each
-5. 5️⃣ 5 philosophers, 800ms to die, 211ms to eat, 600ms to sleep
+1. 1️⃣ philosopher, 800ms to die, 200ms to eat, 200ms to sleep
+2. 5️⃣ philosophers, 800ms to die, 200ms to eat, 200ms to sleep, 7 meals each
+3. 4️⃣ philosophers, 410ms to die, 200ms to eat, 200ms to sleep, 20 meals each
+4. 2️⃣ philosophers, 125ms to die, 60ms to eat, 60ms to sleep, 100 meals each
+5. 5️⃣ philosophers, 800ms to die, 211ms to eat, 600ms to sleep
 
 ### 💥 Crash Tests
 The tester also checks error handling with edge cases:
