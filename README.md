@@ -1,7 +1,7 @@
 # 🍽️ Tester for the Philosopher Project
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.x-green)
+![tester](./images/torch.png)
+![exemple](./images/exemple.png)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 📜 Description
